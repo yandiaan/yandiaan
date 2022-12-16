@@ -23,14 +23,11 @@ I love learning new techs and using new tools.
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <a href="mailto:diansetiawan2121@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yandiaan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dian Setiawan Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandiaan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dian Setiawan Top Languages"/>
 <br />
 <br />
 <br />
