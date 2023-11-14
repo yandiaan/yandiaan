@@ -44,18 +44,17 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 ## Tech Stack
 
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://fontawesome.com/v5.15/icons/th-large?style=solid" alt="tailwind"></a>
+<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind"></a>
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"></a>
 <br />
 <br />
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://fontawesome.com/v5.15/icons/react?style=brands" alt="react"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"></a>
 <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next js"></a>
 <a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
