@@ -44,26 +44,23 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 ## Tech Stack
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/html5.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/css3.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/sass.svg" alt="sass"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
+<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
+<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/tailwind.png" alt="tailwind"></a>
+<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"></a>
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/material-ui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/nextdotjs.svg" alt="next js"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/graphql.svg" alt="graphql"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/firebase.svg" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://simpleicons.org/icons/express.svg" alt="express"></a>
+<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/react.png" alt="react"></a>
+<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next js"></a>
+<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
+<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase"></a>
+<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"></a>
+<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
 </div>
 <br />
 <br />
-
-
-
