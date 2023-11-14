@@ -44,6 +44,7 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 ## Tech Stack
 
 <br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
