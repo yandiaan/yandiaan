@@ -48,13 +48,13 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/tailwind.png" alt="tailwind"></a>
+<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://fontawesome.com/v5.15/icons/th-large?style=solid" alt="tailwind"></a>
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"></a>
 <br />
 <br />
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/react.png" alt="react"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://fontawesome.com/v5.15/icons/react?style=brands" alt="react"></a>
 <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next js"></a>
 <a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
