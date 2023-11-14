@@ -28,6 +28,7 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 <br />
 
 ![yandiaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yandiaan&theme=vue-dark&hide_border=true)
+<br />
 ![yandiaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yandiaan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br />
