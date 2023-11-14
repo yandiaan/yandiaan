@@ -27,7 +27,9 @@ Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yandiaan&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dian Setiawan Github Stats">
+![yandiaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yandiaan&theme=vue-dark&hide_border=true)
+![yandiaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yandiaan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <br />
 <br />
 <br />
