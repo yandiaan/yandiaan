@@ -1,66 +1,91 @@
-<div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://linkedin.com/in/yandian" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/yandian_s" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yandian.s" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=220&section=header&text=Dian%20Setiawan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Yogyakarta%2C%20Indonesia&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Dian Setiawan" />
+</p>
 
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
-<br />
+<p align="center">
+  <a href="https://yandian-site.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Full-stack+developer+%40+SPE+Solution;4+years+of+shipping+web+apps;TypeScript+%C2%B7+Go+%C2%B7+Astro+%C2%B7+Svelte;Always+trying+new+tools" alt="Typing intro" />
+  </a>
+</p>
 
-I'm currently based in **[Yogyakarta, Indonesia.](https://goo.gl/maps/f78fsL6gMWKUGDM37)**
+<p align="center">
+  <a href="https://yandian-site.vercel.app"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=astro&logoColor=70a5fd" alt="Website" /></a>
+  <a href="https://linkedin.com/in/yandian"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzcwYTVmZCIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
+  <a href="https://x.com/yandian_s"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=70a5fd" alt="X" /></a>
+  <a href="https://instagram.com/yandian.s"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=70a5fd" alt="Instagram" /></a>
+  <a href="mailto:diansetiawan2121@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Email" /></a>
+</p>
 
-<br />
-I love learning new techs and using new tools.
-<br />
-<br />
+<p align="center">
+  <img src="https://hits.sh/github.com/yandiaan.svg?label=Profile%20views&color=70a5fd&labelColor=1a1b27&style=flat-square" alt="Profile views" />
+</p>
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/yandiaan/yandiaan/issues/new)** or <a href="mailto:diansetiawan2121@gmail.com"><b>send me an email</b></a>.
-<br />
-<br />
+---
 
-![yandiaan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yandiaan&theme=vue-dark&hide_border=true)
-<br />
-![yandiaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yandiaan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 👋 About me
 
-<br />
-<br />
-<br />
+```ts
+const dian = {
+  role: "Full-stack Developer",
+  company: "SPE Solution",
+  location: "Yogyakarta, Indonesia",
+  experience: "4 years",
+  focus: ["web apps", "APIs", "developer tooling"],
+  likes: ["trying new tools", "clean DX", "shipping fast"],
+};
+```
 
-**Happy Coding!** 😊
+- 🛠️ I build web applications end to end: interface, API, and the data layer underneath.
+- ⚡ Most of my work lately is in **TypeScript** and **Go**, with **Astro**, **Svelte**, and **Supabase** on the side.
+- 🌱 I pick up new tools often, mostly to find out where they actually beat the ones I already use.
+- 💬 Ask me anything [here](https://github.com/yandiaan/yandiaan/issues/new), or just open an issue or PR on any repo.
 
-</div>
+## 🧰 Tech stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,go,html,css,php&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,tailwind,sass,materialui&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,laravel&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,firebase&theme=dark" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
-## Tech Stack
+## 📊 GitHub stats
 
-<br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"></a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next js"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
-</div>
-<br />
-<br />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yandiaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandiaan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yandiaan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yandiaan/yandiaan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yandiaan/yandiaan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/yandiaan/yandiaan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=footer" width="100%" alt="" />
+</p>
